@@ -1,4 +1,4 @@
-💻 Projeto 🛒
+💻 Projeto Viagens Russia🛒
 Russian Viagens: "Criação de um sistema e-commerce para inventário de produtos e dados de clientes", pela Gama Academy | Hiring Coders #2 - VTEX.S
 
 O Cadastro de Clientes, é possível inserir o Nome, CPF, Endereço, Email e Telefone. No Cadastro de Produtos, é possível inserir o Codigo, Nome, Custo e Venda.
@@ -14,5 +14,9 @@ CSS
 JavaScript
 Google Fonts
 
-Fique á vontade para conferir o resultado no repositório e para entrar em contato para sugestões e criticas.
+
+## Nayara Brito Almeida Valevskii
+- [linkedin](https://www.linkedin.com/in/nayaraba/)
+- [github](https://github.com/NayaraWakewski)
+```
 
