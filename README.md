@@ -1,1 +1,1 @@
-# desafio-2-VTEX-GAMA
+# E COMMERCE - DESAFIO
